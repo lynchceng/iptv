@@ -1,6 +1,6 @@
 ## 最新结果
 
-- 接口源：
+- 直播接口源：
 
 ```bash
 https://cdn.jsdelivr.net/gh/lynchceng/iptv@master/output/result.m3u
@@ -10,7 +10,7 @@ https://cdn.jsdelivr.net/gh/lynchceng/iptv@master/output/result.m3u
 https://cdn.jsdelivr.net/gh/lynchceng/iptv@master/output/result.txt
 ```
 
-- 数据源：
+- 点播数据源：
 
 ```bash
 https://cdn.jsdelivr.net/gh/lynchceng/iptv@master/source.json
