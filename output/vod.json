@@ -1,0 +1,21 @@
+{ 
+    "urls": [
+        { "url": "https://cyalias.v.nxog.top/apitv.php?id=1", "name": "🎬欧歌" },
+        { "url": "http://www.饭太硬.com/tv", "name": "⛱️饭太硬" },
+        { "url": "http://我不是.摸鱼儿.com", "name": "🤖摸鱼儿"},
+        { "url": "http://肥猫.com", "name": "📚肥猫" },
+        { "url": "http://tvbox.王二小放牛娃.top", "name": "👨🏻‍🌾王二小放牛娃" },
+        { "url": "https://100km.top/0", "name": "📺骚零" },
+        { "url": "http://rihou.cc:88/荷城茶秀", "name": "📻荷城茶秀" },
+        { "url": "http://fty.xxooo.cf/tv", "name": "⚖️神秘的哥哥" },
+        { "url": "http://mzjk.top/禁止贩卖", "name": "🌇宝盒" },
+        { "url": "http://rihou.cc:55", "name": "🐉开心" },
+        { "url": "http://home.jundie.top:81/top98.json", "name": "🚵🏻俊老" },
+        { "url": "https://api.hgyx.vip/hgyx.json", "name": "🎥HG" },
+        { "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json", "name": "🖥️小苹果" },
+        { "url": "https://pandown.pro/tvbox/tvbox.json", "name": "📻巧计线路" },
+        { "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json", "name": "🏜️短剧合集一" },
+        { "url": "http://74.120.175.78/JK/XYQTVBox/dj.json", "name": "🗃️短剧合集二" },
+        { "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "🛴少儿频道" }
+    ]
+}
