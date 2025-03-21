@@ -1,0 +1,411 @@
+{
+    "spider": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "warningText": "📢没事多清理缓存",
+    "sites": [
+        {
+            "key": "hipy_js_荐片[优]",
+            "name": "💝荐片┃影视",
+            "type": 3,
+            "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/荐片[优].js"
+        },
+        {
+            "key": "hipy_js_黑木耳资源[资]",
+            "name": "🔥木耳┃资源",
+            "type": 3,
+            "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/黑木耳资源[资].js"
+        },
+        {
+            "key": "hipy_js_暴风资源[资]",
+            "name": "🔥暴风┃资源",
+            "type": 3,
+            "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/暴风资源[资].js"
+        },
+        {
+            "key": "hipy_js_北川影视",
+            "name": "🔥北川┃资源",
+            "type": 3,
+            "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/北川影视.js"
+        },
+        {
+            "key": "hipy_js_央视大全[官]",
+            "name": "📺央视┃大全",
+            "type": 3,
+            "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/央视大全[官].js"
+        },
+        {
+            "key": "hipy_js_6V新版[磁]",
+            "name": "💝磁力┃新六",
+            "type": 3,
+            "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/6V新版[磁].js"
+        },
+        {
+            "key": "公众号",
+            "name": "🔥移动┃4K",
+            "type": 3,
+            "jar": "https://123.yp22.cn/d/lz/isqWQ2hstv0d",
+            "api": "csp_YDjisu",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Xunlei8",
+            "name": "💝磁力┃迅雷",
+            "type": 3,
+            "api": "csp_Xunlei8",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://tv.youdu.fan:666/毒盒影视/dhys.jar"
+        },
+        {
+            "key": "csp_Gz360",
+            "name": "🔥瓜子┃1080P",
+            "type": 3,
+            "api": "csp_Gz360Guard"
+        },
+        {
+            "key": "热热",
+            "name": "🔥热播┃1080P",
+            "type": 3,
+            "api": "csp_AppRJGuard",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+        },
+        {
+            "key": "天天",
+            "name": "🔥天天┃1080P",
+            "type": 3,
+            "api": "csp_AppRJGuard",
+            "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+        },
+        {
+            "key": "追剧",
+            "name": "🔥追剧┃1080P",
+            "type": 3,
+            "api": "csp_AppRJGuard",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+        },
+        {
+            "key": "csp_Wwys",
+            "name": "🔥农民┃1080P",
+            "type": 3,
+            "api": "csp_WwysGuard",
+            "ext": "https://www.wwgz.cn"
+        },
+        {
+            "key": "csp_Jpys",
+            "name": "🔥金牌┃1080P",
+            "type": 3,
+            "api": "csp_JpysGuard"
+        },
+        {
+            "key": "欧歌弹幕",
+            "name": "💖玩偶┃4K弹幕",
+            "type": 3,
+            "api": "csp_og",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "danmu": true
+            },
+            "jar": "https://700sjro44343.vicp.fun/vip/jar/ouge.php"
+        },
+        {
+            "key": "欧歌uc",
+            "name": "💖u汐┃4K",
+            "type": 3,
+            "api": "csp_oguc",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "danmu": true
+            },
+            "jar": "https://700sjro44343.vicp.fun/vip/jar/ouge.php"
+        },
+        {
+            "key": "csp_woog2",
+            "name": "💖夸夸┃4K",
+            "type": 3,
+            "api": "csp_woog",
+            "changeable": 0,
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=a3&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;468e5883e1e500c3003b24ee8b6d0dcd",
+            "ext": {
+                "site_urls": [
+                    "https://ogkk.nxog.eu.org",
+                    "https://ogkk.xn--dkw.xn--6qq986b3xl"
+                ]
+            }
+        },
+        {
+            "key": "ygcl",
+            "name": "💝影港┃4K",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.meowtv.cn/xp/meow.php?file=ygcl",
+            "jar": "http://m1839732.cf.caoni.ru/4/meow.php"
+        },
+        {
+            "key": "学堂",
+            "name": "🅰️学堂┃教育",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/学堂教育.json"
+        },
+        {
+            "key": "少儿",
+            "name": "🅰️少儿┃合集",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/少儿合集.json"
+        },
+        {
+            "key": "小学课堂",
+            "name": "🅰️小学┃课堂",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/小学课堂.json"
+        },
+        {
+            "key": "初中课堂",
+            "name": "🅰️初中┃课堂",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/初中课堂.json"
+        },
+        {
+            "key": "高中课堂",
+            "name": "🅰️高中┃课堂",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/高中课堂.json"
+        },
+        {
+            "key": "儿童口才",
+            "name": " 🧒口才┃儿童",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童口才.json"
+        },
+        {
+            "key": "儿童拼音",
+            "name": " 🧒拼音┃儿童",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童拼音.json"
+        },
+        {
+            "key": "儿童识字",
+            "name": " 🧒识字┃儿童",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童识字.json"
+        },
+        {
+            "key": "儿童思维",
+            "name": " 🧒思维┃儿童",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童思维.json"
+        },
+        {
+            "key": "儿童英语",
+            "name": " 🧒英语┃儿童",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童英语.json"
+        },
+        {
+            "key": "儿童硬笔",
+            "name": " 🧒硬笔┃儿童",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童硬笔.json"
+        },
+        {
+            "key": "儿童编程",
+            "name": " 🧒编程┃儿童",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童编程.json"
+        },
+        {
+            "key": "儿童武术",
+            "name": " 🧒武术┃儿童",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童武术.json"
+        }
+    ],
+    "parses": [
+        {
+            "name": "线路1",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+        {
+            "name": "盘古解析",
+            "type": 0,
+            "url": "https://www.pangujiexi.com/pangu/?url="
+        },
+        {
+            "name": "解析1",
+            "type": 1,
+            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "巧技二",
+            "type": 1,
+            "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905",
+                    "NetFilx"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        }
+    ],
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif"
+}
