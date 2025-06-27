@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://ghp.keleyaa.com/https://raw.githubusercontent.com/lynchceng/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-06-27 06:11:09
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-06-27 18:12:24
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
@@ -41,8 +41,6 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-http://124.220.159.96:35455/mgtv/641886773.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 http://[2409:8087:74f0:22::4]:6410/270000001111/1110000306/index.m3u8?channel-id=newtv&livemode=4&Contentid=1110000306
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
@@ -108,9 +106,9 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://event.pull.hebtv.com/jishi/cp1.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000510
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
@@ -166,13 +164,13 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://[2409:8087:74f0:22::5]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000531
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://[2409:8087:74f0:22::5]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000518
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
@@ -262,6 +260,8 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000519/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000519
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
@@ -320,8 +320,6 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225611/2/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
-https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://[2409:8087:74f0:22::5]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000030
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
@@ -361,8 +359,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226920/1.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
-http://124.220.159.96:35455/mgtv/738910838.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
@@ -419,8 +415,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225725/2/index.
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
-https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://[2409:8087:74f0:22::7]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000035
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
@@ -480,11 +474,15 @@ http://[2409:8087:74f0:22::4]:6410/270000001128/9900000507/index.m3u8?channel-id
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
-https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
+https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
+https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
 https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
-https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱体育.png" group-title="🏀体育频道",爱体育
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱体育.png" group-title="🏀体育频道",爱体育
