@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-20 18:12:08,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2025-07-21 06:10:41,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -8,7 +8,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 📚中国教育频道,#genre#
 
 📡卫视频道,#genre#
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
